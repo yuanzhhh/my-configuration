@@ -1,12 +1,11 @@
 * my-configuration
   我的常用配置环境，app、包等
-
 * 付费
-  * 极客时间
-  * 樊登读书
-  * 115 https://115.com/
+  * 115 云盘 https://115.com/
   * 网易云音乐 https://music.163.com/
   * icloud 2TB 云盘（苹果生态各种同步使用，家人也可以共享使用） https://www.icloud.com/
+  * 极客时间
+  * 樊登读书
 * mac app
   * TickTick 滴答清单 https://www.ticktick.com/
   * Reeder 5 信息源 https://www.reederapp.com/
@@ -36,10 +35,6 @@
   * brew install fd 比系统自带的 find 友好
   * brew install autojump 快速跳转
   * brew install tig 历史提交记录
-  * brew install git-extras git summary 通过对项目中每一个 commit 的统计
+  * brew install git-extras, git summary 通过对项目中每一个 commit 的统计
   * skm SSH Key Manager https://github.com/TimothyYe/skm
-    * brew tap timothyye/tap
-    * brew install timothyye/tap/skm
-  * ydict 有道词典 https://github.com/TimothyYe/ydict
-    * brew tap timothyye/tap
-    * brew install timothyye/tap/ydict
+  * ydict 命令行有道词典 https://github.com/TimothyYe/ydict
