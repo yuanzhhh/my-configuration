@@ -1,0 +1,49 @@
+* my-configuration
+
+我的常用配置环境，app、包等
+
+* 付费
+  * 极客时间 :: 各课程
+  * 樊登读书 :: ios app
+  * 115 :: https://115.com/
+  * 网易云音乐 :: https://music.163.com/
+  * icloud 2TB 云盘（苹果生态各种同步使用，家人也可以共享使用） :: https://www.icloud.com/
+* MAC APP
+  * TickTick 滴答清单 :: https://www.ticktick.com/ 
+  * Reeder 5 信息源 :: https://www.reederapp.com/
+  * Downie 4 视频下载工具 :: https://software.charliemonroe.net/downie/
+  * IINA 视频 :: https://github.com/iina/iina
+  * iterm2 :: https://iterm2.com/
+  * ohmyzsh :: https://github.com/ohmyzsh/ohmyzsh
+  * Dash 文档查询工具 :: https://kapeli.com/dash
+  * Emacs 编辑器 :: https://github.com/yuanzhhh/emacs.d
+  * karabiner-elements 更改键位 :: https://karabiner-elements.pqrs.org/
+  * Eudic 欧路词典 :: https://www.eudic.net/
+  * Alfred and Powerpack :: https://www.alfredapp.com/
+  * Eagle 图片视频素材管理工具 :: https://cn.eagle.cool/
+  * Charles 抓包 :: https://www.charlesproxy.com/
+  * 印象笔记 (逐渐转 Notion) :: https://www.yinxiang.com/
+  * Istat menus :: https://bjango.com/mac/istatmenus/
+  * Bob 翻译工具 :: https://github.com/ripperhe/Bob
+  * Paw 前后端联调请求工具（类似 Postman，但更强大） :: https://paw.cloud/
+  * F.lux，调节显示器色温，护眼 :: https://justgetflux.com/
+  * MarginNote 3 阅读器 :: https://www.marginnote.com/chinese/home
+  * Magnet 窗口布局工具  :: https://apps.apple.com/cn/app/magnet/id441258766?mt=12
+  * MindNode 脑图工具 :: appStore
+  * SwitchHosts host 管理 :: https://github.com/oldj/SwitchHosts
+  * 1password 密码管理 :: https://1password.com/
+  * KeepingYouAwake 可保证系统不自动休眠 :: https://github.com/newmarcel/KeepingYouAwake
+* brew 包推荐
+  * brew install fd :: 比系统自带的 find 友好
+  * brew install autojump :: 快速跳转
+  * brew install tig :: 历史提交记录
+  * brew install git-extras :: git summary 通过对项目中每一个 commit 的统计
+  * skm SSH Key Manager ::
+    https://github.com/TimothyYe/skm
+    brew tap timothyye/tap
+    brew install timothyye/tap/skm
+  * ydict 有道词典 ::
+    https://github.com/TimothyYe/ydict
+    brew tap timothyye/tap
+    brew install timothyye/tap/ydict
+
