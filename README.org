@@ -1,41 +1,42 @@
 * my-configuration
   我的常用配置环境，app、包、Plugin 等
-* 付费
-  * 115 云盘 https://115.com/
-  * 网易云音乐 https://music.163.com/
-  * icloud 2TB 云盘（苹果生态各种同步使用，家人也可以共享使用） https://www.icloud.com/
+* 持续付费内容
+  * [[https://115.com/][115]] 云盘工具 
+  * [[https://music.163.com/][网易云音乐]] 听歌 
+  * [[https://www.icloud.com/][icloud]]  2TB icloud 云盘（苹果生态各种同步使用，家人也可以共享使用） 
   * 极客时间
   * 樊登读书
 * mac app
   * [[https://colorsnapper.com/][ColorSnapper 2]] 取色工具 
-  * Chrome https://www.google.cn/chrome/index.html
-  * TickTick 滴答清单 https://www.ticktick.com/
-  * Reeder 5 信息源 https://www.reederapp.com/
-  * Downie 4 视频下载工具 https://software.charliemonroe.net/downie/
-  * IINA 视频 https://github.com/iina/iina
-  * iterm2 https://iterm2.com/
-  * Dash 文档查询工具 https://kapeli.com/dash
-  * Emacs 编辑器 https://github.com/yuanzhhh/emacs.d
-  * karabiner-elements 更改键位 https://karabiner-elements.pqrs.org/
-  * Eudic 欧路词典 https://www.eudic.net/
-  * Alfred and Powerpack https://www.alfredapp.com/
-  * Eagle 图片视频素材管理工具 https://cn.eagle.cool/
-  * Charles 抓包 https://www.charlesproxy.com/
-  * 印象笔记 (逐渐转 Notion) https://www.yinxiang.com/
-  * Istat menus https://bjango.com/mac/istatmenus/
-  * Bob 翻译工具 https://github.com/ripperhe/Bob
-  * Paw 前后端联调请求工具（类似 Postman，但更强大） https://paw.cloud/
-  * F.lux，调节显示器色温，护眼 https://justgetflux.com/
-  * MarginNote 3 阅读器 https://www.marginnote.com/chinese/home
-  * Magnet 窗口布局工具  https://apps.apple.com/cn/app/magnet/id441258766?mt=12
-  * MindNode 脑图工具 appStore
-  * SwitchHosts host 管理 https://github.com/oldj/SwitchHosts
-  * 1password 密码管理 https://1password.com/
-  * KeepingYouAwake 可保证系统不自动休眠 https://github.com/newmarcel/KeepingYouAwake
+  * [[https://www.google.cn/chrome/index.html][Chrome]], [[https://www.firefox.com/][Firefox]], [[https://www.apple.com.cn/safari/][Safari]], [[https://www.microsoft.com/zh-cn/edge][Edge]] 浏览器
+  * [[https://www.ticktick.com/][TickTick 滴答清单]] 待办记录 
+  * [[https://www.reederapp.com/][Reeder 5]]  Rss 信息源获取主要用  
+  * [[https://software.charliemonroe.net/downie/][Downie 4]]  视频下载工具 
+  * [[https://github.com/iina/iina][IINA]]  视频播发工具 
+  * [[https://iterm2.com/][iterm2]] 终端工具 
+  * [[https://kapeli.com/dash][Dash]] 文档查询工具 
+  * [[https://github.com/yuanzhhh/emacs.d][Emacs]] 主要用的编辑器
+  * [[https://code.visualstudio.com/][VSCode]] vscode 偶尔拿来用用
+  * [[https://karabiner-elements.pqrs.org/][karabiner-elements]] 更改键位工具
+  * [[https://www.eudic.net/][Eudic]] 欧路词典，查单词工具 
+  * [[https://www.alfredapp.com/][Alfred]] 神器，付费加了 Powerpack，可以快速应用间跳转、各种 workflow
+  * [[https://cn.eagle.cool/][Eagle]]  图片视频素材管理工具 
+  * [[https://www.charlesproxy.com/][Charles]] 抓包 
+  * [[https://www.yinxiang.com/][印象笔记]]  (逐渐转 [[https://www.notion.so/][Notion]]) 
+  * [[https://bjango.com/mac/istatmenus/][Istat menus]] 顶部状态栏数据展示、流量、cpu、内存等 
+  * [[https://github.com/ripperhe/Bob][Bob]] 翻译工具 
+  * [[https://paw.cloud/][Paw]] 前后端联调请求工具（类似 Postman，但更强大） 
+  * [[https://justgetflux.com/][F.lux]] 调节显示器色温，护眼 
+  * [[https://www.marginnote.com/chinese/home][MarginNote 3]] Pdf 阅读器 
+  * [[https://apps.apple.com/cn/app/magnet/id441258766?mt=12][Magnet]] 窗口布局工具  
+  * [[https://mindnode.com/][MindNode]] 脑图工具
+  * [[https://github.com/oldj/SwitchHosts][SwitchHosts]] Host 管理 
+  * [[https://1password.com/][1password]] 密码管理工具 
+  * [[https://github.com/newmarcel/KeepingYouAwake][KeepingYouAwake]] 可保证系统不自动休眠 
 * Chrome 插件
   我等等就录入进来
 * 工具辅助
-  * nvm node 版本管理 https://github.com/nvm-sh/nvm
+  * [[https://github.com/nvm-sh/nvm][nvm]] node 版本管理工具
 * brew 包
   * brew install ag 文件搜索工具，主要配合 emacs 使用
   * brew install fd 比系统自带的 find 友好
