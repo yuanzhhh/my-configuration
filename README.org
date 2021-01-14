@@ -7,6 +7,7 @@
   * 极客时间
   * 樊登读书
 * mac app
+  * [[https://colorsnapper.com/][ColorSnapper 2]] 取色工具 
   * Chrome https://www.google.cn/chrome/index.html
   * TickTick 滴答清单 https://www.ticktick.com/
   * Reeder 5 信息源 https://www.reederapp.com/
