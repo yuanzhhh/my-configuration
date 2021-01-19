@@ -37,7 +37,6 @@
   我等等就录入进来
 * 工具辅助
   * [[https://github.com/nvm-sh/nvm][nvm]] node 版本管理工具
-* brew 包
   * brew install ag 文件搜索工具，主要配合 emacs 使用
   * brew install fd 比系统自带的 find 友好
   * brew install autojump 快速跳转
