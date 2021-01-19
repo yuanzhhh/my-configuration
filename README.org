@@ -47,6 +47,7 @@
   * ydict 命令行有道词典 https://github.com/TimothyYe/ydict
   * [[https://github.com/KittyKatt/screenFetch][screenFetch]] 命令行获取系统信息
   * [[https://github.com/LuRsT/hr][hr]] 键入终端分隔符
+  * [[https://github.com/soldair/node-qrcode][node-qrcode]]终端生成二维码
 * zsh
   * 主题 spaceship https://github.com/denysdovhan/spaceship-prompt
   * ohmyzsh  https://ohmyz.sh/
