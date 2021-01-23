@@ -57,3 +57,6 @@
     * zsh-autosuggestions
     * extract
     * git
+    * npm
+    * sudo
+    * zsh-syntax-highlighting
