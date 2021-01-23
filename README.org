@@ -48,6 +48,7 @@
   * [[https://github.com/LuRsT/hr][hr]] 键入终端分隔符
   * [[https://github.com/soldair/node-qrcode][node-qrcode]]终端生成二维码
   * [[https://github.com/Fakerr/git-recall][git-recall]] git log 可交互
+  * [[https://github.com/ogham/exa][exa]] ls替换品
 * zsh
   * 主题 spaceship https://github.com/denysdovhan/spaceship-prompt
   * ohmyzsh  https://ohmyz.sh/
