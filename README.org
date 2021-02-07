@@ -51,6 +51,7 @@
   * [[https://github.com/ogham/exa][exa]] ls 替换品
 * npm package
   * [[https://github.com/sindresorhus/np][np]] 更友好的 npm publish
+  * [[https://github.com/rtfpessoa/diff2html-cli][diff2html]] 生成可视化 diff html 界面
 * zsh
   * 主题 spaceship https://github.com/denysdovhan/spaceship-prompt
   * ohmyzsh  https://ohmyz.sh/
