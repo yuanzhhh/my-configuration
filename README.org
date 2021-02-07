@@ -52,6 +52,10 @@
 * npm package
   * [[https://github.com/sindresorhus/np][np]] 更友好的 npm publish
   * [[https://github.com/rtfpessoa/diff2html-cli][diff2html]] 生成可视化 diff html 界面
+  * [[https://github.com/victorb/trymodule][trymodule]] 在终端中试用 npm 包
+  * [[https://github.com/kucherenko/jscpd][jscpd]] 重复代码检测
+  * [[https://github.com/mjswensen/themer][themer]] 为编辑器，终端，墙纸，Slack 等生成主题
+  * [[https://github.com/mixn/carbon-now-cli][carbon-now-cli]] 终端生成代码图片
 * zsh
   * 主题 spaceship https://github.com/denysdovhan/spaceship-prompt
   * ohmyzsh  https://ohmyz.sh/
