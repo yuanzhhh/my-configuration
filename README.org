@@ -37,7 +37,6 @@
   我等等就录入进来
 * 工具辅助
   * [[https://github.com/nvm-sh/nvm][nvm]] node 版本管理工具
-* brew 包
   * brew install ag 文件搜索工具，主要配合 emacs 使用
   * brew install fd 比系统自带的 find 友好
   * brew install autojump 快速跳转
@@ -45,6 +44,11 @@
   * brew install git-extras, git summary 通过对项目中每一个 commit 的统计
   * skm SSH Key Manager https://github.com/TimothyYe/skm
   * ydict 命令行有道词典 https://github.com/TimothyYe/ydict
+  * [[https://github.com/KittyKatt/screenFetch][screenFetch]] 命令行获取系统信息
+  * [[https://github.com/LuRsT/hr][hr]] 键入终端分隔符
+  * [[https://github.com/soldair/node-qrcode][node-qrcode]]终端生成二维码
+  * [[https://github.com/Fakerr/git-recall][git-recall]] git log 可交互
+  * [[https://github.com/ogham/exa][exa]] ls 替换品
 * npm package
   * [[https://github.com/sindresorhus/np][np]] 更友好的 npm publish
 * zsh
@@ -56,3 +60,6 @@
     * zsh-autosuggestions
     * extract
     * git
+    * npm
+    * sudo
+    * zsh-syntax-highlighting
