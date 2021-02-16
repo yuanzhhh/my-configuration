@@ -42,8 +42,8 @@
   * [[https://github.com/wting/autojump][autojump]] brew install autojump 快速跳转（我更多用 [[https://github.com/rupa/z][z]]）
   * [[https://github.com/jonas/tig][tig]] brew install tig 历史提交记录
   * brew install git-extras, git summary 通过对项目中每一个 commit 的统计
-  * skm SSH Key Manager https://github.com/TimothyYe/skm
-  * ydict 命令行有道词典 https://github.com/TimothyYe/ydict
+  * [[https://github.com/TimothyYe/skm][skm]] skm SSH Key Manager
+  * [[https://github.com/TimothyYe/ydict][ydict]] ydict 命令行有道词典
   * [[https://github.com/KittyKatt/screenFetch][screenFetch]] 命令行获取系统信息
   * [[https://github.com/LuRsT/hr][hr]] 键入终端分隔符
   * [[https://github.com/soldair/node-qrcode][node-qrcode]]终端生成二维码
