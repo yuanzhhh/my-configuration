@@ -52,6 +52,7 @@
   * [[https://github.com/Fakerr/git-recall][git-recall]] git log 可交互
   * [[https://github.com/ogham/exa][exa]] ls 替换品
   * [[https://github.com/sdushantha/wifi-password][wifi-password]] 获取当前wifi密码
+  * [[https://github.com/GoogleChromeLabs/ndb][ndb]] 增强 Chrome DevTools 调试体验的工具
 * npm package
   * [[https://github.com/sindresorhus/np][np]] 更友好的 npm publish
   * [[https://github.com/rtfpessoa/diff2html-cli][diff2html]] 生成可视化 diff html 界面
